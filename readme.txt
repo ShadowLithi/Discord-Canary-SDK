@@ -1,11 +1,11 @@
 Platform    |   Rows   | Filename
 
-battlenet   |    19    | detectable_battlenet.csv
-epic        |   2346   | detectable_epic.csv
-gog         |    64    | detectable_gog.csv
-google_play |     4    | detectable_google_play.csv
-microsoft   |     8    | detectable_microsoft.csv
-no_platform |   5011   | detectable_no_platform.csv
-steam       |  17878   | detectable_steam.csv
-uplay       |    29    | detectable_uplay.csv
-xbox        |   7053   | detectable_xbox.csv
+battlenet   |      19  | detectable_battlenet.csv
+epic        |   2,346  | detectable_epic.csv
+gog         |      64  | detectable_gog.csv
+google_play |       4  | detectable_google_play.csv
+microsoft   |       8  | detectable_microsoft.csv
+no_platform |   5,011  | detectable_no_platform.csv
+steam       |  17,878  | detectable_steam.csv
+uplay       |      29  | detectable_uplay.csv
+xbox        |   7,053  | detectable_xbox.csv
