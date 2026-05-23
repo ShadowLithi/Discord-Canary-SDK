@@ -1,4 +1,5 @@
 Platform    |   Rows   | Filename
+
 battlenet   |    19    | detectable_battlenet.csv
 epic        |   2346   | detectable_epic.csv
 gog         |    64    | detectable_gog.csv
